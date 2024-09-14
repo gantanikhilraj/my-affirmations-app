@@ -25,3 +25,33 @@ Before you begin, ensure you have the following:
 - Experience with a code editor (ideally VS Code).
 - General awareness of large language models and an interest in generative AI applications.
 
+## Setup Instructions
+
+1. **Clone the Repository**:
+   ```bash
+   git clone <repository-url>
+   cd my-affirmations-app
+    ```
+
+2. **Install Dependencies**:
+    ```bash
+    npm install
+    ```
+
+3. **Environment Variables**:
+    - Create a .env.local file in the root directory.
+    - Add your AWS credentials prefixed with VITE_:
+
+    ```bash
+    VITE_AWS_ACCESS_KEY_ID=<your-access-key-id>
+    VITE_AWS_SECRET_ACCESS_KEY=<your-secret-access-key>
+    VITE_AWS_SESSION_TOKEN=<your-session-token>
+    ```
+
+4. **Start the Development Server**:
+    ```bash
+    npm run dev
+    ```
+
+5. **Access the Application**:
+    - Open your browser and navigate to `http://localhost:portnumber` to view the app.
