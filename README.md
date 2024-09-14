@@ -65,4 +65,4 @@ Before you begin, ensure you have the following:
     - Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
 ## Acknowledgments
-    - Special thanks to Stephen Howell, Developer Advocate at Amazon Web Services, for leading the workshop and providing valuable insights into AI technology. We hope you find this project both educational and relaxing. Enjoy your journey into coding mindfulness!
+- Special thanks to Stephen Howell, Developer Advocate at Amazon Web Services, for leading the workshop and providing valuable insights into AI technology. We hope you find this project both educational and relaxing. Enjoy your journey into coding mindfulness!
