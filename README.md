@@ -55,3 +55,14 @@ Before you begin, ensure you have the following:
 
 5. **Access the Application**:
     - Open your browser and navigate to `http://localhost:portnumber` to view the app.
+
+## Troubleshooting
+    - Ensure your AWS credentials are correctly set in the .env.local file.
+    - Verify that your AWS account has the necessary permissions to access Amazon Bedrock services.
+    - Check the console for any error messages if the app fails to fetch affirmations.
+
+## Contributing
+    - Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
+
+## Acknowledgments
+    - Special thanks to Stephen Howell, Developer Advocate at Amazon Web Services, for leading the workshop and providing valuable insights into AI technology. We hope you find this project both educational and relaxing. Enjoy your journey into coding mindfulness!
